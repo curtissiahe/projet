@@ -1,0 +1,62 @@
+CSE 111 Proposal for a Student Chosen Program
+
+    (This is a proposal. All proposals are written with our best
+    knowledge at the beginning of a project. As we progress from the
+    beginning to the end of a project, we gain more knowledge, and we
+    change some of our proposed ideas. This is part of completing any
+    project and is fine.  However, we still must write a proposal so
+    that our teachers or supervisors know what we intend to do. Please
+    answer each of the following questions to the best of your
+    knowledge.)
+
+1. What is the title of your program?
+The title of my projet is to  Create a Calculator in Python(GUI programming)
+
+2. What real-world problem will your program address or help to solve?
+This progarm is a very wonderful program.
+Our daily life activities depends on calculation.
+So this projet answers this question.
+Making it easier to perform  basic calculations that can be used by everyone.
+
+3. What will you learn from developing this program?
+By the end of this project with gain Python Programming experience.
+
+will create a fully functioning Calculator application using python’s popular library Tkinter
+and get familiar with this library.
+I’ll be able to create a Graphical User Interface (GUI) in Python from scratch.
+
+ Throughout this project I’ll learn how to create and customize 
+the application window, I’ll learn how to create widgets such as buttons 
+and entry boxes, I’ll also learn how to modify the widgets and change their 
+color, size and orientation and finally you’ll learn how to manage the layout of the widgets
+ and how to place them in the window using three different methods. finally
+ I’ll use what I learned to build the graphical user interface of the calculator and get
+ my  calculator ready to use.
+
+
+
+
+4. What Python modules will your program use?
+
+    (Some examples are: csv, datetime, functools, matplotlib, math,
+    pandas, pytest, random, requests, and tkinter.)
+
+I  will use Tkinte python largest library.
+
+5. Will you separate your Python program into functions that each
+perform a single task?
+
+    (Remember that the most reusable functions don't get user input and
+    don't print results but instead have parameters and return a result.
+    Functions that get user input and print results are important and do
+    useful work but are not easily reusable.)
+
+    (Remember also that it's hard to test functions that get user input
+    and print results. It's easy to test functions that don't get user
+    input and don't print results but instead have parameters and return
+    a result. Therefore, you should write most of your program functions
+    to have parameters and return a result.)
+
+6. Will you write test functions to test at least two of your program
+functions?
+
