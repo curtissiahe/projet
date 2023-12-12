@@ -41,7 +41,7 @@ color, size and orientation and finally you’ll learn how to manage the layout 
     (Some examples are: csv, datetime, functools, matplotlib, math,
     pandas, pytest, random, requests, and tkinter.)
 
-I  will use Tkinte python largest library.
+I  will use Tkinter python largest library.
 
 5. Will you separate your Python program into functions that each
 perform a single task?
@@ -57,6 +57,11 @@ perform a single task?
     a result. Therefore, you should write most of your program functions
     to have parameters and return a result.)
 
+
+yes i will do that
+
 6. Will you write test functions to test at least two of your program
 functions?
+
+yes i will write a test function
 
